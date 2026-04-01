@@ -4,4 +4,5 @@ My namse is tushar and i am in cu
 Added the next line 
 <hr>
 This is the next line of the repo
-
+<hr>
+mac os 
